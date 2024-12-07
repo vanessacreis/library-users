@@ -2,14 +2,6 @@
 
 Este projeto é uma aplicação web para gerenciar usuários de uma biblioteca, utilizando  **Remix** e **Tailwind CSS**. Ele permite criar, visualizar, editar e excluir usuários.
 
-## Tecnologias utilizadas
-
-- **Remix**: Framework de desenvolvimento para aplicações React.
-- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
-- **Tailwind CSS**: Framework CSS para design responsivo e customizado.
-- **Zod**: Biblioteca de validação de dados para garantir que os dados do formulário estejam no formato correto.
-- **Toast Notifications**: Para exibir mensagens de sucesso ou erro.
-
 ## Como executar o projeto
 
 ### 1. Clone o repositório e navegue até a página do projeto
